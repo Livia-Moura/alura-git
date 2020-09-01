@@ -10,6 +10,7 @@
         <li>Docker: corrigindo bug</li>
         <li>Ansible</li>
         <li>Integração Contínua diferente</li>
+        <li>Curso 5</li>
     </ul>
 </body>
 </html>
